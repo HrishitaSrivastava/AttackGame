@@ -23,3 +23,5 @@ You start in the town square with basic stats and a stick. Navigate through diff
 **Game Logic:** Modular functions for combat, navigation, and inventory
 **Responsive UI:** Styled for clarity and interaction
 
+## Live Demo
+[Click here to play the game](https://hrishitasrivastava.github.io/AttackGame/)
